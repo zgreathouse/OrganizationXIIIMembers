@@ -8,7 +8,7 @@
 
 Member.destroy_all
 
-I = Member.create(
+xemnas = Member.create(
   number: 'I',
   name: 'Xemnas',
   title: 'The Superior of the In-Between',
@@ -16,7 +16,7 @@ I = Member.create(
   attribute: 'Nothingness',
   forgotten_name: 'Xehanort'
 )
-II = Member.create(
+xigbar = Member.create(
   number: 'II',
   name: 'Xigbar',
   title: 'The Freeshooter',
@@ -24,7 +24,7 @@ II = Member.create(
   attribute: 'Space',
   forgotten_name: 'Braig'
 )
-III = Member.create(
+xaldin = Member.create(
   number: 'III',
   name: 'Xaldin',
   title: 'The Whirlwind Lancer',
@@ -32,7 +32,7 @@ III = Member.create(
   attribute: 'Wind',
   forgotten_name: 'Dilan'
 )
-IV = Member.create(
+vexen = Member.create(
   number: 'IV',
   name: 'Vexen',
   title: 'The Chilly Academic',
@@ -40,7 +40,7 @@ IV = Member.create(
   attribute: 'Ice',
   forgotten_name: 'Even'
 )
-V = Member.create(
+lexaeus = Member.create(
   number: 'V',
   name: 'Lexaeus',
   title: 'The Taciturn Stalwart',
@@ -48,7 +48,7 @@ V = Member.create(
   attribute: 'Earth',
   forgotten_name: 'Aeleus'
 )
-VI = Member.create(
+zexion = Member.create(
   number: 'VI',
   name: 'Zexion',
   title: 'The Cloaked Schemer',
@@ -56,7 +56,7 @@ VI = Member.create(
   attribute: 'Illusion',
   forgotten_name: 'Ienzo'
 )
-VII = Member.create(
+saix = Member.create(
   number: 'VII',
   name: 'Saix',
   title: 'The Luna Diviner',
@@ -64,7 +64,7 @@ VII = Member.create(
   attribute: 'Moon',
   forgotten_name: 'Isa'
 )
-VIII = Member.create(
+axel = Member.create(
   number: 'VIII',
   name: 'Axel',
   title: 'The Flurry of Dancing Flames',
@@ -72,7 +72,7 @@ VIII = Member.create(
   attribute: 'Fire',
   forgotten_name: 'Lea'
 )
-IX = Member.create(
+demyx = Member.create(
   number: 'IX',
   name: 'Demyx',
   title: 'The Melodious Nocturne',
@@ -80,7 +80,7 @@ IX = Member.create(
   attribute: 'Water',
   forgotten_name: 'unknown'
 )
-X = Member.create(
+luxord = Member.create(
   number: 'X',
   name: 'Luxord',
   title: 'The Gambler of Fate',
@@ -88,7 +88,7 @@ X = Member.create(
   attribute: 'Time',
   forgotten_name: 'unknown'
 )
-XI = Member.create(
+marluxia = Member.create(
   number: 'XI',
   name: 'Marluxia',
   title: 'The Graceful Assasin',
@@ -96,7 +96,7 @@ XI = Member.create(
   attribute: 'Flower',
   forgotten_name: 'Unknown'
 )
-XII = Member.create(
+larxene = Member.create(
   number: 'XII',
   name: 'Larxene',
   title: 'The Savage Nymph',
@@ -104,7 +104,7 @@ XII = Member.create(
   attribute: 'Lightning',
   forgotten_name: 'Unknown'
 )
-XII = Member.create(
+roxas = Member.create(
   number: 'XIII',
   name: 'Roxas',
   title: 'The Key of Destiny',
@@ -112,7 +112,7 @@ XII = Member.create(
   attribute: 'Light',
   forgotten_name: 'Sora'
 )
-XIV = Member.create(
+xion = Member.create(
   number: 'XIV',
   name: 'Xion',
   title: 'No Title',
