@@ -36,7 +36,7 @@ class Api::MembersController < ApplicationController
   private
 
   def member_params
-    params.require(:member).permit(:number, :name, :title, :weapon, :attribute, :forgotten_name)
+    params.require(:member).permit(:number, :name, :title, :weapon, :element, :forgotten_name)
   end
 
 end
